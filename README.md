@@ -1,6 +1,6 @@
 # Pic-in-Pic App
 
-![Pic-In-Pic](img\screenshot.png)
+![Pic-In-Pic](img/screenshot.png)
 
 > Using Mozilla's screen cap API to show a picture-in-picture while you work.
 
